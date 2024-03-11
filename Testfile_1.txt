@@ -1,1 +1,9 @@
 Hello World....! This is my first file test(1).....
+1.first cmd :git clone code link for invoke the directory from github to local directory.
+2.to change directory : cd directory name.
+3.git status cmd used for file status.
+4.git add filename is used to move the file into staging area or waiting area.
+5.git commit -m to add to local git file and give the commit name.
+6.git push origin originname(main) used to push the file into github.
+----To add or change file || to move local repository to remote repository----
+insert->add->commit->push
