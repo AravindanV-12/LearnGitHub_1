@@ -8,3 +8,4 @@ Hello World....! This is my first file test(1).....
 ----To add or change file || to move local repository to remote repository----
 insert->add->commit->push
 7.git pull cmd used to fetch the modified or added file from remote directory(github) to local repository
+----for delete a file also same procedure----
