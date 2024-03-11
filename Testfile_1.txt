@@ -7,3 +7,4 @@ Hello World....! This is my first file test(1).....
 6.git push origin originname(main) used to push the file into github.
 ----To add or change file || to move local repository to remote repository----
 insert->add->commit->push
+7.git pull cmd used to fetch the modified or added file from remote directory(github) to local repository
