@@ -11,3 +11,9 @@ insert->add->commit->push
 ----for delete a file also same procedure----
 8.cd .. change directory for back
 9.git init cmd is used to add empty git to new directory 
+10.git add . cmd used to move all file to statging area at a time and then commit it.
+11.create new repository on github and connect it cmd is git remote(current rep) add origin [link in github path].
+12.the old name of main "master" so it get error we have two ways push 
+--->1.git push origin master
+--->2.change the branch name cmd is
+git branch -m main(name) 
