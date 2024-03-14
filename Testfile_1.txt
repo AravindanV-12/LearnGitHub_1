@@ -17,3 +17,8 @@ insert->add->commit->push
 --->1.git push origin master
 --->2.change the branch name cmd is
 git branch -m main(name) 
+13.create a new branch check the branch cmd is --> git branch [newbranchname] & git branch -a
+14.for open the new branch cmd is--> git checkout branchname.
+15.git diff branchname[branchno1] this cmd used toe differece between main and new branch[branchno1].
+16.to merge new branch wiith main branch the cmd is[current branch is main] git merge branchname[branchno1].
+17.git pull origin main this cmd is used to fetch the data from main branch .
