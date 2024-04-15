@@ -15,7 +15,7 @@ insert->add->commit->push
 11.create new repository on github and connect it cmd is git remote(current rep) add origin [link in github path].
 12.the old name of main "master" so it get error we have two ways push 
 --->1.git push origin master
---->2.change the branch name cmd is
+--->2.change the branch name cmd is 
 git branch -m main(name) 
 13.create a new branch check the branch cmd is --> git branch [newbranchname] & git branch -a
 14.for open the new branch cmd is--> git checkout branchname.
